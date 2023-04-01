@@ -10,5 +10,5 @@ Tenho estudado C++ e Java ultimamente.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nadinael&show_icons=true&theme=shades-of-purple" >
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinael&theme=shades-of-purple">
 </div>
