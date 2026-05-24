@@ -10,7 +10,7 @@ Tenho estudado C++, Java e pouquinho de python ultimamente.
 
 <div align="center">
 
-## 📈 Contributions
+## 📈 Contribuições
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadinael&theme=radical)]
   
