@@ -19,6 +19,6 @@ Tenho estudado C++, Java e pouquinho de python ultimamente.
 
 ### Estatísticas
   <a href="https://github.com/nadinael/">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadinael/&theme=tokyonight" alt="Linguagens mais usadas"/> 
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadinael/&theme=tokyonight" alt="Estatísticas do GitHub"/> 
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadinael" alt="Linguagens mais usadas"/> 
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadinael" alt="Estatísticas do GitHub"/> 
   </a>
