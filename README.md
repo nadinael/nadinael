@@ -3,7 +3,7 @@
 ### NADINAEL S. TEIXEIRA
 Graduado em Sistemas de Informação, Licenciado em Letras Português/Inglês, Especialista em Educação a Distância, Especialista em Desenvolvimento Web com Java.
 Docente do quadro efetivo da UEG - UnU Posse.
-Tenho estudado C++, Java e pouquinho de python ultimamente.
+Tenho estudado Java, Ferramentas de apoio educacional, Engines de código aberto e coordenado projetos de extensão com foco em desenvolvimento de sistemas e manutenção de CMS.
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=nadinael)
